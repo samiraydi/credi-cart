@@ -1,0 +1,101 @@
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  height: 500px;
+  position: relative;
+  border-radius: 20px;
+}
+.App{
+  margin:40px 0
+}
+.sim{
+  width: 250px;
+  height: 120px;
+  position: absolute;
+  top: 200px;
+  right: 800px;
+}
+.visa{
+  width:150px;
+  height:200px;
+  position: absolute;
+  top: 360px;
+  right: 250px;
+}
+.CREDIT{
+  position: absolute;
+  top: 80px;
+  right: 300px;
+  color: white;
+  font-family: 'Vidaloka', serif;
+  font-size: 80px
+}
+.cod{
+  position: absolute;
+  text-align: center;
+  top: 320px;
+  right: 500px;
+  color: rgb(213, 228, 0);
+  background-color:rgba(255, 255, 0, 0.411);
+  font-size: 60px;
+  font-family: 'Old Standard TT', serif;
+  border-radius: 10px;
+}
+.cod1{
+  position: absolute;
+  text-align: center;
+  top: 430px;
+  right: 1000px;
+  color: blanchedalmond;
+  font-family: 'Vidaloka', serif;
+  font-size: 30px
+}
+.CARDHOLDER{
+  position: absolute;
+  text-align: center;
+  top: 500px;
+  right: 780px;
+  color: blanchedalmond;
+  font-family: 'Vidaloka', serif;
+  font-size: 30px
+}
+.color{
+color: red;font-size: 18px;
+padding: 60px 20px
+}
+.month{
+  position: absolute;
+  text-align: center;
+  top: 400px;
+  right: 450px;
+  color: blanchedalmond;
+  font-size: 30px
+}
+.fin{
+  display: flex;
+  position: absolute;
+  text-align: center;
+  top: 400px;
+  right: 550px;
+  color: blanchedalmond;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+.fin p {
+  font-size: 20px;
+  margin: 40px -20px
+}
+.fin h2{
+  display: flex;
+  position: absolute;
+  text-align: center;
+  top: 50px;
+  right: -70px;
+
+}
+.nnd{
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
