@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/credi-cart/static/css/main.fe8cf8b0.chunk.css",
+    "main.js": "/credi-cart/static/js/main.2c034aff.chunk.js",
+    "main.js.map": "/credi-cart/static/js/main.2c034aff.chunk.js.map",
+    "runtime~main.js": "/credi-cart/static/js/runtime~main.29e9f327.js",
+    "runtime~main.js.map": "/credi-cart/static/js/runtime~main.29e9f327.js.map",
+    "static/js/2.a68ccf2f.chunk.js": "/credi-cart/static/js/2.a68ccf2f.chunk.js",
+    "static/js/2.a68ccf2f.chunk.js.map": "/credi-cart/static/js/2.a68ccf2f.chunk.js.map",
+    "index.html": "/credi-cart/index.html",
+    "precache-manifest.df7cb662d366bf0f58852be24c8ce279.js": "/credi-cart/precache-manifest.df7cb662d366bf0f58852be24c8ce279.js",
+    "service-worker.js": "/credi-cart/service-worker.js",
+    "static/css/main.fe8cf8b0.chunk.css.map": "/credi-cart/static/css/main.fe8cf8b0.chunk.css.map",
+    "static/media/img1.jpg": "/credi-cart/static/media/img1.524be8a1.jpg",
+    "static/media/visa1.png": "/credi-cart/static/media/visa1.e090a733.png"
+  }
+}
